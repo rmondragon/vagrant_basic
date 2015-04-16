@@ -1,0 +1,47 @@
+Your machine is up and running
+ui-bproc : http://ui-bproc.dev.com
+delivery : http://delivery.dev.com
+test     : http://test.dev.com
+
+*Use the command 'vagrant ssh' to access your server.
+
+                                                   BB
+                     BBBB                        BB  BBBB
+                 BBBB    BB                    BB  BB    BBBB
+               BB      BB            BBBBBBBBBB    BBBB      BB
+             BBBB    BB      BB    BB            BB    BB    BBBB
+             BB    BB        BB  BB              BBBB    BB    BB
+           BBBB    BB      BB  BB                    BB  BB    BBBB
+           BB      BB    BB                        BB    BB      BB
+           BB        BB  BB          BBBB        BB    BB        BB
+           BB        BB  BB    BBBBBB    BBBBBB    BB  BB        BB
+           BB        BBBBBBBBBB                BBBBBBBBBB        BB
+           BB      BBBB      BB                BB      BBBB    BBBB
+             BB        BB      BB  BB    BB  BB      BB        BB
+             BB    BBBBBB        BB        BB        BBBBBB    BB
+               BB    BB  BBBB    BB        BB    BBBB  BB    BB
+               BBBBBB    BB  BBBBBB        BBBBBB  BB    BBBBBB
+                 BBBB  BB  BB  BB  BB    BB  BB  BB  BB  BBBB
+                   BB  BB  BB  BB    BBBB    BB  BB  BB  BB
+                   BB  BBBBBBBBBB            BBBBBBBBBB  BB
+                 BB  BB          BB        BB          BB  BB
+             BBBBBBBBBB              BBBB              BBBBBBBBBB
+           BB          BB  BBBB  BBBB    BBBB  BBBB  BB          BB
+         BB              BB    BB            BB    BB              BB
+         BB                        BB    BB                        BB
+         BB                      BB        BB                      BB
+         BB            BB                            BB            BB
+           BB        BB  BB          BBBB          BB  BB        BB
+             BB      BB    BBBBBBBBBB    BBBBBBBBBB    BB      BB
+               BB    BB    BB  BB            BB  BB    BB    BB
+                 BB    BB    BB                BB    BB    BB
+                 BB    BB      BBBBBB    BBBBBB      BB    BB
+                   BB    BB  BB      BBBB      BB  BB    BB
+                   BB    BBBB  BB            BB  BBBB    BB
+                     BB    BBBB  BB        BB  BBBB    BB
+                     BB    BBBB  BB        BB  BBBB    BB
+                   BB      BBBBBBBBBBBBBBBBBBBBBBBB      BB
+                   BB                                    BB
+                   BB                BBBB                BB
+                     BBBB        BBBB    BBBB        BBBB
+                         BBBBBBBB            BBBBBBBB
